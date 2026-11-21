@@ -26,3 +26,7 @@ This project analyzes employee data using Python, Pandas, Jupyter Notebook, Git 
 
 ## Tools Used
 Python, Pandas, Jupyter Notebook, Git and GitHub.
+# Week 1 Assessment - Main Branch
+## Main Branch Update
+
+This project was initialized on the main branch and updated through feature/analysis.
